@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m studying at VNU-HCMUS
 - 🌱 I’m currently learning Machine Learning, DeepLearning
-- ⚡ Skills: C++, Python, PyTorch
+- ⚡ Skills: C++, Python, TensorFlow
 <!--
 **nhminh107/nhminh107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
