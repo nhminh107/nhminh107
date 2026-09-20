@@ -65,8 +65,8 @@ AI engineering               →  Reproducible, deployable ML systems
 ## GitHub overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nhminh107&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Minh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhminh107&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhminh107&theme=transparent" alt="Minh's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhminh107&theme=transparent" alt="Top languages by repository" />
 </div>
 
 ---
