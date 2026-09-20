@@ -1,18 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on Deep Learning, Fine-Tunning, RAG, NLP, CV<br>
-You can find me on my website: <a href="https://minhlab.ai.vn/">MinhLab</a>
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nhminh107) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamMinh107) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhminh107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nhminh107) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nhminh107)
+# Hi, I'm Ngô Hoàng Minh 👋
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nhminh107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nhminh107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nhminh107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AI/ML Student · Research-minded Builder · Technical Writer
+
+I build practical AI systems for **Vietnamese language understanding**, **retrieval**, and **multimodal search**.
+
+[![Website](https://img.shields.io/badge/MinhLab-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://minhlab.ai.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhminh107/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/nhminh107)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamMinh107/)
+
+</div>
+
+## About me
+
+- 🎓 Studying Information Technology at the **University of Science, VNU-HCM**.
+- 🔬 Exploring **LLMs, representation learning, RAG, NLP, Computer Vision, and Multimodal AI**.
+- 🧠 Interested in the full AI lifecycle: data curation, fine-tuning, evaluation, retrieval, and deployment.
+- ✍️ Writing practical notes and tutorials about Machine Learning, LLMs, and AI Engineering at [MinhLab](https://minhlab.ai.vn/blog).
+
+## Featured work
+
+| Project | What I built |
+| --- | --- |
+| [VietRAG-Embed](https://huggingface.co/nhminh107/VietRAG-Embed) | A Vietnamese embedding model fine-tuned from `multilingual-e5-base` for semantic retrieval and RAG. |
+| [VietEmbed-RAG-Science](https://huggingface.co/datasets/nhminh107/VietEmbed-RAG-Science) | A Vietnamese retrieval dataset for training and evaluating embedding models. |
+| [4US-1F-AIC-HCMC](https://github.com/nhminh107/4US-1F-AIC-HCMC) | An offline processing pipeline for a video retrieval system built for AIC HCMC 2026. |
+| [BMI · Best Meal Itinerary](https://github.com/nhminh107/BMI-BestMealItinerary) | An end-to-end food-tour recommendation system, from data collection and cleaning to the core recommendation algorithm. |
+
+## What I work with
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+**Languages & Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+
+**Data, Backend & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+## Current focus
+
+```text
+Fine-tuning embedding models  →  Better Vietnamese retrieval
+Multimodal & video search     →  Faster access to visual knowledge
+AI engineering               →  Reproducible, deployable ML systems
+```
+
+## GitHub overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nhminh107&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Minh's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhminh107&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nhminh107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub>Learning by building · Growing by sharing</sub>
+</div>
