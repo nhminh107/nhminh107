@@ -85,6 +85,14 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhminh107&theme=transparent&title_color=67e8f9&text_color=e2e8f0&bg_color=00000000&border_color=334155&icon_color=38bdf8&chart_color=34d399" alt="Top languages by repository" />
 </div>
 
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/nhminh107/">
+    <img height="300" src="https://leetcard.jacoblin.cool/nhminh107?theme=catppuccinMocha&ext=heatmap" alt="LeetCode statistics for nhminh107" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
