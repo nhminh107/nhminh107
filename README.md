@@ -55,25 +55,13 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
 ## What I work with
 
 **AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+<img src="./assets/icons/tech-pytorch.svg" width="32" height="32" alt="PyTorch" title="PyTorch" />&nbsp;<img src="./assets/icons/tech-huggingface.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />&nbsp;<img src="./assets/icons/tech-scikitlearn.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn" />&nbsp;<img src="./assets/icons/tech-faiss.svg" width="32" height="32" alt="FAISS" title="FAISS" />
 
 **Languages & Engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+<img src="./assets/icons/tech-python.svg" width="32" height="32" alt="Python" title="Python" />&nbsp;<img src="./assets/icons/tech-cplusplus.svg" width="32" height="32" alt="C++" title="C++" />&nbsp;<img src="./assets/icons/tech-docker.svg" width="32" height="32" alt="Docker" title="Docker" />&nbsp;<img src="./assets/icons/tech-git.svg" width="32" height="32" alt="Git" title="Git" />&nbsp;<img src="./assets/icons/tech-linux.svg" width="32" height="32" alt="Linux" title="Linux" />
 
 **Data, Backend & Cloud**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
+<img src="./assets/icons/tech-fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp;<img src="./assets/icons/tech-supabase.svg" width="32" height="32" alt="Supabase" title="Supabase" />&nbsp;<img src="./assets/icons/tech-firebase.svg" width="32" height="32" alt="Firebase" title="Firebase" />&nbsp;<img src="./assets/icons/tech-googlecloud.svg" width="32" height="32" alt="Google Cloud" title="Google Cloud" />&nbsp;<img src="./assets/icons/tech-sqlserver.svg" width="32" height="32" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
 ## Current focus
 
 - **Vietnamese retrieval** — fine-tuning embedding models for better search and RAG.
