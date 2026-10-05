@@ -6,10 +6,12 @@
 
 I build practical AI systems for **Vietnamese language understanding, retrieval, and multimodal search**.
 
-[![Website](https://img.shields.io/badge/MinhLab-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://minhlab.ai.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhminh107/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)](https://huggingface.co/nhminh107)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iamMinh107/)
+<p align="center">
+  <a href="https://minhlab.ai.vn"><img src="./assets/icons/minhlab.svg" width="32" height="32" alt="MinhLab" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nhminh107/"><img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/nhminh107"><img src="./assets/icons/huggingface.svg" width="32" height="32" alt="Hugging Face" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/iamMinh107/"><img src="./assets/icons/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+</p>
 
 ![Stars](https://img.shields.io/github/stars/nhminh107?style=flat-square&color=d97706&label=STARS)
 ![Followers](https://img.shields.io/github/followers/nhminh107?style=flat-square&color=2563eb&label=FOLLOWERS)
