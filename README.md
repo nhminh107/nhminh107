@@ -28,10 +28,28 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
 
 ## Selected work
 
-|  |  |
-| --- | --- |
-| **[VietRAG-Embed](https://huggingface.co/nhminh107/VietRAG-Embed)**<br>A Vietnamese embedding model fine-tuned from `multilingual-e5-base` for semantic retrieval and RAG. | **[VietEmbed-RAG-Science](https://huggingface.co/datasets/nhminh107/VietEmbed-RAG-Science)**<br>A Vietnamese retrieval dataset for training and evaluating embedding models. |
-| **[4US-1F-AIC-HCMC](https://github.com/nhminh107/4US-1F-AIC-HCMC)**<br>An offline processing pipeline for a video retrieval system built for AIC HCMC 2026. | **[BMI · Best Meal Itinerary](https://github.com/nhminh107/BMI-BestMealItinerary)**<br>An end-to-end food-tour recommendation system, from data collection to recommendation. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://huggingface.co/nhminh107/VietRAG-Embed">VietRAG-Embed</a></strong><br>
+      A Vietnamese embedding model fine-tuned from <code>multilingual-e5-base</code> for semantic retrieval and RAG.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://huggingface.co/datasets/nhminh107/VietEmbed-RAG-Science">VietEmbed-RAG-Science</a></strong><br>
+      A Vietnamese retrieval dataset for training and evaluating embedding models.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/nhminh107/4US-1F-AIC-HCMC">4US-1F-AIC-HCMC</a></strong><br>
+      An offline processing pipeline for a video retrieval system built for AIC HCMC 2026.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/nhminh107/BMI-BestMealItinerary">BMI · Best Meal Itinerary</a></strong><br>
+      An end-to-end food-tour recommendation system, from data collection to recommendation.
+    </td>
+  </tr>
+</table>
 
 ## What I work with
 
