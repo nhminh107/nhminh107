@@ -54,14 +54,34 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
 
 ## What I work with
 
-**AI & Machine Learning**  
-<img src="./assets/icons/tech-pytorch.svg" width="32" height="32" alt="PyTorch" title="PyTorch" />&nbsp;<img src="./assets/icons/tech-huggingface.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />&nbsp;<img src="./assets/icons/tech-scikitlearn.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn" />&nbsp;<img src="./assets/icons/tech-faiss.svg" width="32" height="32" alt="FAISS" title="FAISS" />
+<h3 align="center">AI & ML</h3>
+<p align="center">
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/"><img src="https://skillicons.dev/icons?i=matlab" width="40" height="40"/></a>
+</p>
 
-**Languages & Engineering**  
-<img src="./assets/icons/tech-python.svg" width="32" height="32" alt="Python" title="Python" />&nbsp;<img src="./assets/icons/tech-cplusplus.svg" width="32" height="32" alt="C++" title="C++" />&nbsp;<img src="./assets/icons/tech-docker.svg" width="32" height="32" alt="Docker" title="Docker" />&nbsp;<img src="./assets/icons/tech-git.svg" width="32" height="32" alt="Git" title="Git" />&nbsp;<img src="./assets/icons/tech-linux.svg" width="32" height="32" alt="Linux" title="Linux" />
+<h3 align="center">Languages & Engineering</h3>
+<p align="center">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" width="40" height="40"/></a>&nbsp;&nbsp;
+</p>
 
-**Data, Backend & Cloud**  
-<img src="./assets/icons/tech-fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp;<img src="./assets/icons/tech-supabase.svg" width="32" height="32" alt="Supabase" title="Supabase" />&nbsp;<img src="./assets/icons/tech-firebase.svg" width="32" height="32" alt="Firebase" title="Firebase" />&nbsp;<img src="./assets/icons/tech-googlecloud.svg" width="32" height="32" alt="Google Cloud" title="Google Cloud" />&nbsp;<img src="./assets/icons/tech-sqlserver.svg" width="32" height="32" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+<h3 align="center">Data, Backend & Cloud</h3>
+<p align="center">
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>&nbsp;&nbsp;
+</p>
 ## Current focus
 
 - **Vietnamese retrieval** — fine-tuning embedding models for better search and RAG.
