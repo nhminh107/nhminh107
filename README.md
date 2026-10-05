@@ -11,7 +11,7 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)](https://huggingface.co/nhminh107)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iamMinh107/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nhminh107&style=flat-square&color=0f766e&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nhminh107&color=0f766e&style=flat-square&label=Profile+Views)
 ![Stars](https://img.shields.io/github/stars/nhminh107?style=flat-square&color=d97706&label=STARS)
 ![Followers](https://img.shields.io/github/followers/nhminh107?style=flat-square&color=2563eb&label=FOLLOWERS)
 
