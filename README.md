@@ -4,50 +4,51 @@
 
 ### AI/ML Student · Research-minded Builder · Technical Writer
 
-I build practical AI systems for **Vietnamese language understanding**, **retrieval**, and **multimodal search**.
+I build practical AI systems for **Vietnamese language understanding, retrieval, and multimodal search**.
 
-[![Website](https://img.shields.io/badge/MinhLab-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://minhlab.ai.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhminh107/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/nhminh107)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamMinh107/)
+[![Website](https://img.shields.io/badge/MinhLab-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://minhlab.ai.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhminh107/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)](https://huggingface.co/nhminh107)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iamMinh107/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nhminh107&style=flat-square&color=0f766e&label=PROFILE+VIEWS)
+![Stars](https://img.shields.io/github/stars/nhminh107?style=flat-square&color=d97706&label=STARS)
+![Followers](https://img.shields.io/github/followers/nhminh107?style=flat-square&color=2563eb&label=FOLLOWERS)
 
 </div>
 
-## About me
+---
 
-- 🎓 Studying Information Technology at the **University of Science, VNU-HCM**.
-- 🔬 Exploring **LLMs, representation learning, RAG, NLP, Computer Vision, and Multimodal AI**.
-- 🧠 Interested in the full AI lifecycle: data curation, fine-tuning, evaluation, retrieval, and deployment.
-- ✍️ Writing practical notes and tutorials about Machine Learning, LLMs, and AI Engineering at [MinhLab](https://minhlab.ai.vn/blog).
+## About
 
-## Featured work
+🎓 Studying Information Technology at the **University of Science, VNU-HCM**.  
+🔬 Exploring **LLMs, representation learning, RAG, NLP, Computer Vision, and Multimodal AI**.  
+🧠 Interested in the full AI lifecycle: data curation, fine-tuning, evaluation, retrieval, and deployment.  
+✍️ I share practical notes on Machine Learning, LLMs, and AI Engineering at [MinhLab](https://minhlab.ai.vn/blog).
 
-| Project | What I built |
+## Selected work
+
+|  |  |
 | --- | --- |
-| [VietRAG-Embed](https://huggingface.co/nhminh107/VietRAG-Embed) | A Vietnamese embedding model fine-tuned from `multilingual-e5-base` for semantic retrieval and RAG. |
-| [VietEmbed-RAG-Science](https://huggingface.co/datasets/nhminh107/VietEmbed-RAG-Science) | A Vietnamese retrieval dataset for training and evaluating embedding models. |
-| [4US-1F-AIC-HCMC](https://github.com/nhminh107/4US-1F-AIC-HCMC) | An offline processing pipeline for a video retrieval system built for AIC HCMC 2026. |
-| [BMI · Best Meal Itinerary](https://github.com/nhminh107/BMI-BestMealItinerary) | An end-to-end food-tour recommendation system, from data collection and cleaning to the core recommendation algorithm. |
+| **[VietRAG-Embed](https://huggingface.co/nhminh107/VietRAG-Embed)**<br>A Vietnamese embedding model fine-tuned from `multilingual-e5-base` for semantic retrieval and RAG. | **[VietEmbed-RAG-Science](https://huggingface.co/datasets/nhminh107/VietEmbed-RAG-Science)**<br>A Vietnamese retrieval dataset for training and evaluating embedding models. |
+| **[4US-1F-AIC-HCMC](https://github.com/nhminh107/4US-1F-AIC-HCMC)**<br>An offline processing pipeline for a video retrieval system built for AIC HCMC 2026. | **[BMI · Best Meal Itinerary](https://github.com/nhminh107/BMI-BestMealItinerary)**<br>An end-to-end food-tour recommendation system, from data collection to recommendation. |
 
 ## What I work with
 
-**AI & Machine Learning**
-
+**AI & Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 
-**Languages & Engineering**
-
+**Languages & Engineering**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
-**Data, Backend & Cloud**
-
+**Data, Backend & Cloud**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
@@ -56,16 +57,14 @@ I build practical AI systems for **Vietnamese language understanding**, **retrie
 
 ## Current focus
 
-```text
-Fine-tuning embedding models  →  Better Vietnamese retrieval
-Multimodal & video search     →  Faster access to visual knowledge
-AI engineering               →  Reproducible, deployable ML systems
-```
+- **Vietnamese retrieval** — fine-tuning embedding models for better search and RAG.
+- **Multimodal search** — making visual and video knowledge easier to find.
+- **AI engineering** — building reproducible, deployable machine-learning systems.
 
-## GitHub overview
+## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhminh107&theme=transparent" alt="Minh's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhminh107&theme=transparent" alt="GitHub statistics" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhminh107&theme=transparent" alt="Top languages by repository" />
 </div>
 
