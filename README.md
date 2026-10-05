@@ -81,8 +81,8 @@ I build practical AI systems for **Vietnamese language understanding, retrieval,
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhminh107&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhminh107&theme=transparent" alt="Top languages by repository" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhminh107&theme=transparent&title_color=67e8f9&text_color=e2e8f0&bg_color=00000000&border_color=334155&icon_color=38bdf8&chart_color=34d399" alt="GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhminh107&theme=transparent&title_color=67e8f9&text_color=e2e8f0&bg_color=00000000&border_color=334155&icon_color=38bdf8&chart_color=34d399" alt="Top languages by repository" />
 </div>
 
 ---
